@@ -1,4 +1,8 @@
-# create-svelte
+# ArcGIS Maps SDK components with SvelteKit
+
+## Esri DevSummit 2024
+
+Learn more about [ArcGIS Maps SDK components](https://developers.arcgis.com/javascript/latest/components/).
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
